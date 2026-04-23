@@ -1,7 +1,5 @@
 ## Oi, sou a Poli! 👋
 
-# Oi, sou a Poli! 👋
-
 🎓 Estudante de Sistemas de Informação
 💻 Focada em desenvolvimento e sempre aprendendo coisas novas
 🚀 Em busca de crescer na área de programação
