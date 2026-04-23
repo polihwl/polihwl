@@ -1,22 +1,37 @@
-## Oi, sou a Poli! 👋
+# Oi, sou a Poli 👋
 
-🎓 Estudante de Sistemas de Informação
-💻 Focada em desenvolvimento e sempre aprendendo coisas novas
-🚀 Em busca de crescer na área de programação
-
----
-
-## 🛠️ Tecnologias que estou estudando
-
-C# • .NET • SQL
+Estudante de Sistemas de Informação  
+Focada em desenvolvimento e aprendizado contínuo  
+Buscando crescer na área de programação  
 
 ---
 
-## 📫 Contato
+## Tecnologias
 
-🔗 LinkedIn: https://linkedin.com/in/poliana-ferreira-pbf
-📧 Email: polianabferreira6@gmail.com
+C# • .NET • SQL  
 
+---
+
+## Contato
+
+LinkedIn: https://linkedin.com/in/poliana-ferreira-pbf  
+Email: polianabferreira6@gmail.com  
+
+---
+
+## Atualmente
+
+- Estudando desenvolvimento e lógica  
+- Praticando com projetos  
+- Evoluindo constantemente  
+
+---
+
+## Sobre
+
+- Tenho dois gatos  
+- Gosto de café  
+- Curto coisas simples e bem feitas  
 ---
 
 ## 💼 Tecnologias & Ferramentas
