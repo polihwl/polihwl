@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oi, sou a Poli! 👋
 
-<!--
-**polihwl/polihwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação
+💻 Focada em desenvolvimento e sempre aprendendo coisas novas
+🚀 Em busca de crescer na área de programação
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que estou estudando
+C#
+.NET
+SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contato
+💼 LinkedIn: www.linkedin.com/in/poliana-ferreira-pbf
+📧 Email: polianabferreira6@gmail.com
